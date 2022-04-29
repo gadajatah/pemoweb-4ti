@@ -1,0 +1,29 @@
+#form {
+    font-family: sans-serif;
+    color: orange;
+    font-size: 14px;
+    text-shadow: 1px 1px 1px cyan;
+}
+#form input {
+    border-radius: 10px;
+    height: 50px;
+    width: 300px;
+    font-family: Arial;
+}
+#form select {
+    border-radius: 10px;
+    height: 50px;
+    font-family: arial;
+    text-transform: uppercase;
+}
+#form textarea {
+    border-radius: 10px;
+}
+#form #tombol {
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    font-family: sans-serif;
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
